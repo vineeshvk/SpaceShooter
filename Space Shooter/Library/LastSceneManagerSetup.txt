@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Space_shooter/EndScene.unity
+  isLoaded: 1
+  isActive: 1
