@@ -1,1 +1,3 @@
-#It's a simple Unity 2D game
+# Space Shooter
+
+It's a simple Unity 2D game
